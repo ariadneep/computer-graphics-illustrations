@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d48db5a1-0d26-48c9-81f5-8671fc2f8020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LinAlgFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transformations/LargerFileSizeTimer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transformations/Translations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transformations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d48db5a1-0d26-48c9-81f5-8671fc2f8020" name="Changes" comment="Added code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transformations/LargerFileSizeTimer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transformations/Translations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Transformations/Translations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.KMostProbable.executor": "Run",
-    "Python.Translations.executor": "Debug",
+    "Python.Translations.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -102,27 +95,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734131301419</updated>
-      <workItem from="1734131303161" duration="2766000" />
+      <workItem from="1734131303161" duration="5655000" />
     </task>
+    <task id="LOCAL-00001" summary="Added code">
+      <option name="closed" value="true" />
+      <created>1734134196218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734134196218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Transformations/Translations.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LinAlgFinal$KMostProbable.coverage" NAME="KMostProbable Coverage Results" MODIFIED="1734131810317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Transformations" />
-    <SUITE FILE_PATH="coverage/LinAlgFinal$Translations.coverage" NAME="Translations Coverage Results" MODIFIED="1734134088608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Transformations" />
+    <SUITE FILE_PATH="coverage/LinAlgFinal$Translations.coverage" NAME="Translations Coverage Results" MODIFIED="1734138115383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Transformations" />
     <SUITE FILE_PATH="coverage/LinAlgFinal$main.coverage" NAME="main Coverage Results" MODIFIED="1734131738976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
